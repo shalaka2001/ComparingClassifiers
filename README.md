@@ -27,13 +27,13 @@ Lowest precision 61.8% indicating calls will be made to uninterested customers L
 ### Factors influencing the acceptance of the offer:
 #### Economic and Social factors tend to influence the decision of the consumer
 
-#### Consumer price index which is a direct indicator of the inflation is seen to influence the decision- at a higher inflation rate, consumers want to spend less and invest more and are likely to accept the offer.
+##### 1. Consumer price index which is a direct indicator of the inflation is seen to influence the decision- at a higher inflation rate, consumers want to spend less and invest more and are likely to accept the offer.
 
-#### Euribor High Euribor(Euro Interbank Offered Rate) rate indicates stringent monetary policies and stress in the banking system, and people tend to invest less.
+##### 2. Euribor High Euribor(Euro Interbank Offered Rate) rate indicates stringent monetary policies and stress in the banking system, and people tend to invest less.
 
-#### Employment variation rate indicates change in employment rate. If this value is negative, it indicates that people are losing job. It seems to have a negative correlation with the Acceptance indicating that as employment improves, people may not have time to look at the offers or make investments.
+##### 3. Employment variation rate indicates change in employment rate. If this value is negative, it indicates that people are losing job. It seems to have a negative correlation with the Acceptance indicating that as employment improves, people may not have time to look at the offers or make investments.
 
-#### Consumer Confidence index - Higher value indicates that the customer may invest in the offer
+##### 4. Consumer Confidence index - Higher value indicates that the customer may invest in the offer
 
 #### Previous acceptance or rejection also seems to be influencing the decision.
 If a customer has accepted previous investment offers they are likely to accept it again.
